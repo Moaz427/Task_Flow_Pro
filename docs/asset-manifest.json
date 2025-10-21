@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Task_Flow_Pro/static/css/main.0ea3a942.css",
+    "main.js": "/Task_Flow_Pro/static/js/main.72a1c199.js",
+    "index.html": "/Task_Flow_Pro/index.html",
+    "main.0ea3a942.css.map": "/Task_Flow_Pro/static/css/main.0ea3a942.css.map",
+    "main.72a1c199.js.map": "/Task_Flow_Pro/static/js/main.72a1c199.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0ea3a942.css",
+    "static/js/main.72a1c199.js"
+  ]
+}
